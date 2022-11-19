@@ -1,1 +1,1 @@
-# Scene Classification Transfer Learning
+# Scene Classification using Transfer Learning
