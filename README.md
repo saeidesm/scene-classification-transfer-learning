@@ -12,4 +12,4 @@ Since the dataset is small, I did some augmentations on images including flippin
 
 ## Results
 ### 1. Experiment results with Xception Model with fine-tuning:
-<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Xception.jpg" width="400" height="400" />
+<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Xception.jpg" width="600" height="400" />
