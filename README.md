@@ -11,5 +11,11 @@ We have chosen the “Scene Classification” dataset for training our model tha
 Since the dataset is small, I did some augmentations on images including flipping, zooming, shifting, and rotating images. I used ImageDataGenerator to make a generator out of all authentic images.
 
 ## Results
-### 1. Experiment results with Xception Model with fine-tuning:
+### 1. Experiment results with MobileNetV2 Model with fine-tuning:
+<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/MobileNetV2.jpg" width="600" height="400" />
+
+### 2. Experiment results with Xception Model with fine-tuning:
 <img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Xception.jpg" width="600" height="400" />
+
+### 3. Experiment results with Xception Model with fine-tuning:
+<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Inc-ResNetV2.jpg" width="600" height="400" />
