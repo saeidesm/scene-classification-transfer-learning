@@ -12,4 +12,4 @@ Since the dataset is small, I did some augmentations on images including flippin
 
 ## Results
 ### 1. Experiment results with MobileNetV2 Model with fine-tuning:
-!(https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Xception.jpg)
+![](https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Xception.jpg)
