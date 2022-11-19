@@ -28,5 +28,5 @@ All three base models include multiple blocks; we have decided to unfreeze the s
 <img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/Inc-ResNetV2.jpg" width="600" height="400" />
 
 In the following figure, the training and validation accuracy and loss of the Xception model with three fully connected layers and fine-tuning the top 5 blocks of the pre-trained model, depicted in the plot which has the best accuracy over all other models on the scene classification dataset.
-<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/best-result.jpg" width="1000" height="400" />
+<img src="https://github.com/saeidesm/scene-classification-transfer-learning/blob/main/results-img/best-result.jpg" width="1000" height="300" />
 
